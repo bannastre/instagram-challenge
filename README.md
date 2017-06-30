@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/bannastre/instagram-challenge.png?label=ready&title=Ready)](https://waffle.io/bannastre/instagram-challenge?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/fbell123/instagram-challenge.png?label=ready&title=Ready)](https://waffle.io/fbell123/instagram-challenge)
 Instagram Challenge
 ===================
